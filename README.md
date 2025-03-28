@@ -34,16 +34,6 @@
 
 ---
 
-## 🎮 Mi actividad en GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joss0102/joss0102/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joss0102/joss0102/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/joss0102/joss0102/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ## 📫 Conéctate conmigo
 
 <div align="left">
