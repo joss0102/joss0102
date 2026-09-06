@@ -1,6 +1,6 @@
 # 👋 Sobre mí
 
-## Jose Rosell | Desarrollador Frontend  
+## Jose Ayrton Rosell Bonavina | Desarrollador Frontend  
 
 ✨ Apasionado por la tecnología y el desarrollo web.  
 🎯 Mi objetivo es convertirme en un programador frontend cueste lo que cueste.  
